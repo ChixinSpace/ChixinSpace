@@ -6,7 +6,7 @@
           .-#-----.     /|\     .---'-'---.    .-#-----.
      ___ /_________\   //|\\   /___________\  /_________\  
     /___\ |[] _ []|    //|\\    | A /^\ A |    |[] _ []| _.O,_
-....|"#"|.|  |*|  |...///|\\\...|   |"|   |....|  |*|  |..(^).... ldb By @lgbeard at www.asciiart.eu
+....|"#"|.|  |*|  |...///|\\\...|   |"|   |....|  |*|  |..(^).... ldb By @lgbeard at www.asciiart.eu (it seems ascii is triggering formatting or something. I still have stuff to learn)
 
 Happy holidays y'all!
 
